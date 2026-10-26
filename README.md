@@ -4,4 +4,4 @@
 
 **Live Demo:** [Click here](https://the-absentee-main.streamlit.app/)
 
-**Landing Page:**[Click here]()
+**Landing Page:**[Click here](https://the-absentee-landing-page.vercel.app/)
